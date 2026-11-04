@@ -1,7 +1,7 @@
 {
-  "name": "ABOELFADL-QR",
-  "short_name": "ABOELFADL-QR",
-  "description": "ABOELFADL-QR",
+  "name": "ABOELFADL-WIFI",
+  "short_name": "ABOELFADL-WIFI",
+  "description": "ABOELFADL-WIFI",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
